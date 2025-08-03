@@ -9,12 +9,14 @@
 | [0152-maximum-product-subarray](https://github.com/Ejjaganisirini/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
 ## Binary Search
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bit Manipulation
 |  |
@@ -24,6 +26,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
@@ -57,4 +60,8 @@
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
+## Prefix Sum
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
