@@ -14,11 +14,13 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +70,12 @@
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
