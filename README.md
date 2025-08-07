@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ejjaganisirini/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ejjaganisirini/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
+| [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -49,6 +50,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -82,4 +84,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ejjaganisirini/DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
