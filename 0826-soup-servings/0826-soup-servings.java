@@ -1,17 +1,17 @@
 class Solution {
     public double soupServings(int n) {
-        // Optimization: For large n, probability approaches 1
+        
         if (n > 4800) return 1.0;
 
-        int m = (n + 24) / 25; // Convert ml to serving units of 25 ml
+        int m = (n + 24) / 25; 
         Double[][] memo = new Double[m + 1][m + 1];
         return dfs(m, m, memo);
     }
 
     private double dfs(int a, int b, Double[][] memo) {
-        if (a <= 0 && b <= 0) return 0.5; // Both empty at the same time
-        if (a <= 0) return 1.0;           // A empty first
-        if (b <= 0) return 0.0;           // B empty first
+        if (a <= 0 && b <= 0) return 0.5; 
+        if (a <= 0) return 1.0;          
+        if (b <= 0) return 0.0;           
 
         if (memo[a][b] != null) return memo[a][b];
 
