@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ejjaganisirini/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Ejjaganisirini/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ejjaganisirini/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -116,4 +117,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Ejjaganisirini/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ejjaganisirini/DSA/tree/master/0326-power-of-three) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ejjaganisirini/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ejjaganisirini/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
