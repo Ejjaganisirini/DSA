@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ejjaganisirini/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ejjaganisirini/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ejjaganisirini/DSA/tree/master/0326-power-of-three) |
