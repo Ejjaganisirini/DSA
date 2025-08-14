@@ -123,6 +123,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ejjaganisirini/DSA/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/Ejjaganisirini/DSA/tree/master/0812-rotate-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Ejjaganisirini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Trie
 |  |
 | ------- |
