@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Ejjaganisirini/DSA/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Ejjaganisirini/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ejjaganisirini/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ejjaganisirini/DSA/tree/master/0152-maximum-product-subarray) |
@@ -56,6 +57,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ejjaganisirini/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -100,6 +102,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ejjaganisirini/DSA/tree/master/0054-spiral-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ejjaganisirini/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
