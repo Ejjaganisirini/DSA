@@ -74,6 +74,7 @@
 | [0326-power-of-three](https://github.com/Ejjaganisirini/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ejjaganisirini/DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Ejjaganisirini/DSA/tree/master/0826-soup-servings) |
+| [1448-maximum-69-number](https://github.com/Ejjaganisirini/DSA/tree/master/1448-maximum-69-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Ejjaganisirini/DSA/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
