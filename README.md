@@ -39,6 +39,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Ejjaganisirini/DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -49,6 +50,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ejjaganisirini/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ejjaganisirini/DSA/tree/master/0152-maximum-product-subarray) |
 | [0826-soup-servings](https://github.com/Ejjaganisirini/DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ejjaganisirini/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ejjaganisirini/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
@@ -74,6 +76,7 @@
 | [0326-power-of-three](https://github.com/Ejjaganisirini/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ejjaganisirini/DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Ejjaganisirini/DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ejjaganisirini/DSA/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ejjaganisirini/DSA/tree/master/1448-maximum-69-number) |
 ## Hash Table
 |  |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Ejjaganisirini/DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Ejjaganisirini/DSA/tree/master/0867-new-21-game) |
 ## Recursion
 |  |
 | ------- |
