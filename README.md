@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ejjaganisirini/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ejjaganisirini/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
+| [0679-24-game](https://github.com/Ejjaganisirini/DSA/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
@@ -75,6 +76,7 @@
 | [0231-power-of-two](https://github.com/Ejjaganisirini/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ejjaganisirini/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ejjaganisirini/DSA/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Ejjaganisirini/DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Ejjaganisirini/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ejjaganisirini/DSA/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ejjaganisirini/DSA/tree/master/1448-maximum-69-number) |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Ejjaganisirini/DSA/tree/master/0812-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Ejjaganisirini/DSA/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
