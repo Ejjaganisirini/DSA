@@ -18,6 +18,7 @@
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ejjaganisirini/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -80,6 +81,7 @@
 | [0826-soup-servings](https://github.com/Ejjaganisirini/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ejjaganisirini/DSA/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/Ejjaganisirini/DSA/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
