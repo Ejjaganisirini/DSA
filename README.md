@@ -28,6 +28,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ejjaganisirini/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ejjaganisirini/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ejjaganisirini/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Ejjaganisirini/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Ejjaganisirini/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
@@ -135,6 +136,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ejjaganisirini/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ejjaganisirini/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ejjaganisirini/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Ejjaganisirini/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ejjaganisirini/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/Ejjaganisirini/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
