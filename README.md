@@ -50,6 +50,7 @@
 | [0342-power-of-four](https://github.com/Ejjaganisirini/DSA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ejjaganisirini/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ejjaganisirini/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ejjaganisirini/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -210,4 +212,8 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ejjaganisirini/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ejjaganisirini/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
