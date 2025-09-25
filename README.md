@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ejjaganisirini/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ejjaganisirini/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ejjaganisirini/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ejjaganisirini/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Ejjaganisirini/DSA/tree/master/0054-spiral-matrix) |
@@ -42,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ejjaganisirini/DSA/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ejjaganisirini/DSA/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
