@@ -18,6 +18,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/Ejjaganisirini/DSA/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/Ejjaganisirini/DSA/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ejjaganisirini/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/Ejjaganisirini/DSA/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
