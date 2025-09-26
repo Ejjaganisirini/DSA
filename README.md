@@ -55,6 +55,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ejjaganisirini/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ejjaganisirini/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ejjaganisirini/DSA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ejjaganisirini/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ejjaganisirini/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Ejjaganisirini/DSA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ejjaganisirini/DSA/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Ejjaganisirini/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ejjaganisirini/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ejjaganisirini/DSA/tree/master/0326-power-of-three) |
@@ -179,6 +182,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ejjaganisirini/DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Ejjaganisirini/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ejjaganisirini/DSA/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/Ejjaganisirini/DSA/tree/master/0812-rotate-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ejjaganisirini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
