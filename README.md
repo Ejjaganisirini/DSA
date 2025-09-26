@@ -17,6 +17,7 @@
 | [0152-maximum-product-subarray](https://github.com/Ejjaganisirini/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Ejjaganisirini/DSA/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Ejjaganisirini/DSA/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Ejjaganisirini/DSA/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Ejjaganisirini/DSA/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Ejjaganisirini/DSA/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Ejjaganisirini/DSA/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Ejjaganisirini/DSA/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -84,6 +86,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ejjaganisirini/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ejjaganisirini/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/Ejjaganisirini/DSA/tree/master/0611-valid-triangle-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -120,6 +123,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Ejjaganisirini/DSA/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Ejjaganisirini/DSA/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ejjaganisirini/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
@@ -209,6 +213,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Ejjaganisirini/DSA/tree/master/0611-valid-triangle-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Ejjaganisirini/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Ejjaganisirini/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Ejjaganisirini/DSA/tree/master/3748-sort-matrix-by-diagonals) |
