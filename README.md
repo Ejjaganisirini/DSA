@@ -63,6 +63,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ejjaganisirini/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ejjaganisirini/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ejjaganisirini/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ejjaganisirini/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ejjaganisirini/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ejjaganisirini/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ejjaganisirini/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Ejjaganisirini/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Ejjaganisirini/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -191,6 +193,7 @@
 | [0125-valid-palindrome](https://github.com/Ejjaganisirini/DSA/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/Ejjaganisirini/DSA/tree/master/0812-rotate-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ejjaganisirini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ejjaganisirini/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Trie
 |  |
 | ------- |
@@ -282,4 +285,8 @@
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ejjaganisirini/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ejjaganisirini/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
