@@ -299,4 +299,5 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Ejjaganisirini/DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Ejjaganisirini/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Ejjaganisirini/DSA/tree/master/1625-group-sold-products-by-the-date) |
+| [1877-find-followers-count](https://github.com/Ejjaganisirini/DSA/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
