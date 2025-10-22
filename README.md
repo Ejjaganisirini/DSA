@@ -289,4 +289,8 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ejjaganisirini/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Database
+|  |
+| ------- |
+| [1625-group-sold-products-by-the-date](https://github.com/Ejjaganisirini/DSA/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
