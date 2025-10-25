@@ -26,6 +26,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ejjaganisirini/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ejjaganisirini/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ejjaganisirini/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ejjaganisirini/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -129,6 +130,7 @@
 | [0036-valid-sudoku](https://github.com/Ejjaganisirini/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ejjaganisirini/DSA/tree/master/0037-sudoku-solver) |
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ejjaganisirini/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
@@ -193,6 +195,7 @@
 | [0067-add-binary](https://github.com/Ejjaganisirini/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ejjaganisirini/DSA/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/Ejjaganisirini/DSA/tree/master/0812-rotate-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ejjaganisirini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ejjaganisirini/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Trie
@@ -309,8 +312,13 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
