@@ -280,6 +280,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/Ejjaganisirini/DSA/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/Ejjaganisirini/DSA/tree/master/0871-keys-and-rooms) |
 ## Counting
 |  |
 | ------- |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-keys-and-rooms](https://github.com/Ejjaganisirini/DSA/tree/master/0871-keys-and-rooms) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
