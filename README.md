@@ -77,6 +77,7 @@
 | [0118-pascals-triangle](https://github.com/Ejjaganisirini/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ejjaganisirini/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ejjaganisirini/DSA/tree/master/0152-maximum-product-subarray) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Ejjaganisirini/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Ejjaganisirini/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -233,6 +234,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ejjaganisirini/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
@@ -274,6 +276,7 @@
 | [0101-symmetric-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | [0101-symmetric-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ejjaganisirini/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Counting
 |  |
 | ------- |
@@ -301,4 +305,12 @@
 | [1625-group-sold-products-by-the-date](https://github.com/Ejjaganisirini/DSA/tree/master/1625-group-sold-products-by-the-date) |
 | [1877-find-followers-count](https://github.com/Ejjaganisirini/DSA/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ejjaganisirini/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Graph
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ejjaganisirini/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
