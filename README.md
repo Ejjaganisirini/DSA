@@ -129,6 +129,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ejjaganisirini/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ejjaganisirini/DSA/tree/master/0037-sudoku-solver) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ejjaganisirini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2689-rearranging-fruits](https://github.com/Ejjaganisirini/DSA/tree/master/2689-rearranging-fruits) |
@@ -195,6 +196,7 @@
 | [0014-longest-common-prefix](https://github.com/Ejjaganisirini/DSA/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Ejjaganisirini/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Ejjaganisirini/DSA/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ejjaganisirini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Ejjaganisirini/DSA/tree/master/0812-rotate-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ejjaganisirini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -294,6 +296,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ejjaganisirini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ejjaganisirini/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bitmask
 |  |
@@ -325,4 +328,8 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ejjaganisirini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
