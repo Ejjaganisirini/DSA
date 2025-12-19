@@ -24,6 +24,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ejjaganisirini/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ejjaganisirini/DSA/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ejjaganisirini/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ejjaganisirini/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Ejjaganisirini/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ejjaganisirini/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
