@@ -95,6 +95,7 @@
 | [0125-valid-palindrome](https://github.com/Ejjaganisirini/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Ejjaganisirini/DSA/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/Ejjaganisirini/DSA/tree/master/0611-valid-triangle-number) |
+| [1768-merge-strings-alternately](https://github.com/Ejjaganisirini/DSA/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ejjaganisirini/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Ejjaganisirini/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
@@ -198,6 +199,7 @@
 | [0125-valid-palindrome](https://github.com/Ejjaganisirini/DSA/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ejjaganisirini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Ejjaganisirini/DSA/tree/master/0812-rotate-string) |
+| [1768-merge-strings-alternately](https://github.com/Ejjaganisirini/DSA/tree/master/1768-merge-strings-alternately) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Ejjaganisirini/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ejjaganisirini/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Ejjaganisirini/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
